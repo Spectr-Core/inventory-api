@@ -103,13 +103,19 @@ http://localhost:9090
 
 ---
 
-### Get product
+### Get product by id
 
 ```bash
 curl "http://localhost:9090/product?id=1"
 ```
 ![Products](screnshoots/productbyid.png)
 
+### Get product by price low
+
+```bash
+curl "http://localhost:9090/products/cheap"
+```
+![Products](screnshoots/productsbycheap.png)
 
 ## Используемые технологии
 
