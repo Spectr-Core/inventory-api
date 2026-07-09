@@ -108,7 +108,7 @@ http://localhost:9090
 ```bash
 curl "http://localhost:9090/product?id=1"
 ```
-![Products](screnshoots/Screenshot 2026-07-09 141243.png)
+![Products](screnshoots/productbyid.png)
 
 
 ## Используемые технологии
