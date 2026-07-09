@@ -103,6 +103,14 @@ http://localhost:9090
 
 ---
 
+### Get product
+
+```bash
+curl "http://localhost:9090/product?id=1"
+```
+![Products](screnshoots/Screenshot 2026-07-09 141243.png)
+
+
 ## Используемые технологии
 
 - Go
